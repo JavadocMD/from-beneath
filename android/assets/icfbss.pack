@@ -1,0 +1,184 @@
+
+icfbss.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intro1
+  rotate: false
+  xy: 1, 186
+  size: 818, 818
+  orig: 818, 818
+  offset: 0, 0
+  index: -1
+bldg-btm-1
+  rotate: false
+  xy: 821, 704
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+bldg-dmg-btm-1
+  rotate: false
+  xy: 821, 402
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+bldg-dmg-mid-1
+  rotate: false
+  xy: 821, 100
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+beach
+  rotate: false
+  xy: 1, 84
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+helicopter
+  rotate: false
+  xy: 1, 1
+  size: 144, 81
+  orig: 144, 81
+  offset: 0, 0
+  index: -1
+bullet
+  rotate: false
+  xy: 303, 163
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+
+icfbss2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intro2
+  rotate: false
+  xy: 1, 87
+  size: 818, 818
+  orig: 818, 818
+  offset: 0, 0
+  index: -1
+bldg-dmg-top-1
+  rotate: false
+  xy: 821, 605
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+bldg-mid-1
+  rotate: false
+  xy: 821, 303
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+bldg-top-1
+  rotate: false
+  xy: 821, 1
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+
+icfbss3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intro3
+  rotate: false
+  xy: 1, 101
+  size: 818, 818
+  orig: 818, 818
+  offset: 0, 0
+  index: -1
+zungo-top-1
+  rotate: false
+  xy: 821, 619
+  size: 200, 300
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+punch1
+  rotate: false
+  xy: 821, 413
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+punch2
+  rotate: false
+  xy: 821, 207
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+punch3
+  rotate: false
+  xy: 821, 1
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+
+icfbss4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intro4
+  rotate: false
+  xy: 1, 1
+  size: 818, 818
+  orig: 818, 818
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 821, 615
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+walk1
+  rotate: false
+  xy: 821, 409
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+walk2
+  rotate: false
+  xy: 821, 203
+  size: 153, 204
+  orig: 153, 204
+  offset: 0, 0
+  index: -1
+
+icfbss5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+intro5
+  rotate: false
+  xy: 1, 1
+  size: 818, 818
+  orig: 818, 818
+  offset: 0, 0
+  index: -1
+
+icfbss6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+skyline
+  rotate: false
+  xy: 1, 1
+  size: 800, 377
+  orig: 800, 377
+  offset: 0, 0
+  index: -1
